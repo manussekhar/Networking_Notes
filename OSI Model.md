@@ -1,7 +1,7 @@
 The OSI (Open Systems Interconnection) model is a conceptual framework that standardizes the functions of a telecommunication or computing system into seven distinct layers. It was developed in 1984 by the International Organization for Standardization (ISO)
 
 - **Physical Layer (Layer 1):**
-     - This layer deals with the physical medium for data transmission, such as cables, electrical signals, or radio waves.
+    - This layer deals with the physical medium for data transmission, such as cables, electrical signals, or radio waves.
     - It defines the hardware aspects of transmitting raw bits over a physical medium, including connectors, pins, voltage levels, and signaling.
 - **Data Link Layer (Layer 2):**
     
