@@ -1,1 +1,2 @@
 The OSI (Open Systems Interconnection) model is a conceptual framework that standardizes the functions of a telecommunication or computing system into seven distinct layers. It was developed in 1984 by the International Organization for Standardization (ISO)
+
