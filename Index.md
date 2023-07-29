@@ -1,4 +1,4 @@
-[[OSI]]
+[[OSI Model]]
 [[http]]
 
 [[https]]
