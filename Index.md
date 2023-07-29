@@ -1,3 +1,4 @@
+service test
 [[http]]
 
 [[https]]
