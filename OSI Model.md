@@ -10,7 +10,7 @@ The OSI (Open Systems Interconnection) model is a conceptual framework that stan
     - The network layer is responsible for routing data packets between different networks or subnets.
     - It deals with logical addressing (e.g., IP addresses), packet forwarding, and choosing the best path for data to travel from the source to the destination.
 - **Transport Layer (Layer 4):**
-    - The transport layer provides reliable, end-to-end data transport services between applications running on different devices.
+    - reliable, end-to-end data transport services between applications running on different devices.
     - It ensures data integrity, flow control, and error recovery using mechanisms like TCP (Transmission Control Protocol) and UDP (User Datagram Protocol).
 - **Session Layer (Layer 5):**
     - The session layer establishes, manages, and terminates communication sessions between applications on different devices.
