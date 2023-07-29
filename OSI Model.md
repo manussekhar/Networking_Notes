@@ -17,7 +17,7 @@ The OSI (Open Systems Interconnection) model is a conceptual framework that stan
     - Isynchronization and checkpointing of data exchange to support reliable data transfer during a session.
 - **Presentation Layer (Layer 6):**
     - data representation, translation, and encryption to ensure that data sent by one application can be understood by another.
-    - It deals with data compression, data encryption, character encoding, and data format conversion.
+    - data compression, data encryption, character encoding, and data format conversion.
 - **Application Layer (Layer 7):**
     
     - The application layer is the topmost layer and is closest to the end-user. It provides a user interface and services for end-user applications to interact with the network.
