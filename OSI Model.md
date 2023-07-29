@@ -14,7 +14,7 @@ The OSI (Open Systems Interconnection) model is a conceptual framework that stan
     - ensures data integrity, flow control, and error recovery using mechanisms like TCP (Transmission Control Protocol) and UDP (User Datagram Protocol).
 - **Session Layer (Layer 5):**
     - establishes, manages, and terminates communication sessions between applications on different devices.
-    - It enables synchronization and checkpointing of data exchange to support reliable data transfer during a session.
+    - Isynchronization and checkpointing of data exchange to support reliable data transfer during a session.
 - **Presentation Layer (Layer 6):**
     
     - The presentation layer is responsible for data representation, translation, and encryption to ensure that data sent by one application can be understood by another.
