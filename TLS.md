@@ -35,6 +35,13 @@ The TLS handshake ensures that the client and server can establish a secure and 
 
 TLS Certificate
 
+1. Server presents the certificate: The server sends its TLS certificate to the client during the TLS handshake process. The certificate contains the server's public key, its domain name (or IP address), and other relevant information.
+    
+2. Client verifies the certificate: The client checks the validity of the certificate to ensure that it has not expired, is issued by a trusted Certificate Authority (CA), and matches the domain name of the server. If any of these checks fail, the client will display a warning to the user, indicating that the connection may not be secure.
+    
+3. Key exchange: If the client trusts the certificate, it proceeds with the TLS handshake, during which the client and server exchange cryptographic keys and agree on encryption algorithms to use for secure communication.
+    
+4. Secure data exchange: Once the handshake is completed, the client and server can securely exchange data over the encrypted connection, ensuring confidentiality and integrity during transmission.
 
 
 
