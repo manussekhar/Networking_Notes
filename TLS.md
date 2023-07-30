@@ -2,3 +2,4 @@ TLS (Transport Layer Security) is a cryptographic protocol that provides secure 
 
 TLS uses encryption algorithms to scramble the data being transmitted, making it unreadable to anyone who intercepts it without the proper decryption key.
 
+TLS guarantees that data is not altered or corrupted during transmission. It uses message authentication codes (MACs) to verify that the data received at the other end is the same as what was sent.
