@@ -31,7 +31,6 @@ Here's a simplified overview of the TLS handshake process:
 8. Secure Data Exchange: Once the handshake is complete, both the client and server can start securely exchanging data using the agreed-upon encryption and integrity protection methods.
 
 
-
 The TLS handshake ensures that the client and server can establish a secure and private channel for communication, protecting sensitive data from eavesdropping and tampering. After the handshake is completed, the TLS session remains active, and the client and server can continue exchanging data securely until the session is terminated.
 
 TLS Certificate
