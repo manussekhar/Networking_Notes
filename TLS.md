@@ -12,6 +12,7 @@ TLS Certificate
 
 
 
+
 1.3 is the latest version
 
 Apart from [[https]] TLS is used in email communications, VPN, VoIp, IOT devices etc
