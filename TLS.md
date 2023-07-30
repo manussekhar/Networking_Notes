@@ -6,3 +6,4 @@ TLS guarantees that data is not altered or corrupted during transmission. It use
 
 TLS operates in the application layer of the OSI model and sits on top of the transport layer (e.g., TCP or UDP).
 
+he TLS protocol establishes a secure connection through a process called the "handshake." During the handshake, the client and server negotiate the encryption algorithms and other parameters to be used in the secure communication session.
