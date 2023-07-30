@@ -12,3 +12,4 @@
 4. Status Codes: HTTP responses include status codes that indicate the outcome of the request. Some common status codes include 200 (OK), 404 (Not Found), 500 (Internal Server Error), and many others, each representing a different condition.
     
 5. URL (Uniform Resource Locator): HTTP requests are made to specific resources identified by URLs. A URL includes the protocol (HTTP or HTTPS), the domain name or IP address of the server, the port number, and the path to the resource.
+6. 
