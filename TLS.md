@@ -8,4 +8,4 @@ TLS operates in the application layer of the OSI model and sits on top of the tr
 
 he TLS protocol establishes a secure connection through a process called the "handshake." During the handshake, the client and server negotiate the encryption algorithms and other parameters to be used in the secure communication session.
 
-1.3 is the 
+1.3 is the latest
