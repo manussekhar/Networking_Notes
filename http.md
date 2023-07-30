@@ -1,3 +1,7 @@
+
+
+
+
 1. Stateless: HTTP is a stateless protocol, which means that each request-response cycle is independent and does not retain information from previous interactions. This means that the server treats each request as an isolated event and doesn't remember past requests from the same client.
     
 2. Request-Response Model: The communication between the client and server occurs through a request-response model. The client sends an HTTP request to the server, and the server responds with an HTTP response containing the requested data or an error message.
