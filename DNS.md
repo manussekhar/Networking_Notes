@@ -1,3 +1,3 @@
 Domain Name System
 
-A
+Acts as the a
