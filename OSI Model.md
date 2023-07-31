@@ -11,7 +11,7 @@ The OSI (Open Systems Interconnection) model is a conceptual framework that stan
     - It deals with logical addressing (e.g., IP addresses), packet forwarding, and choosing the best path for data to travel from the source to the destination.
 - **Transport Layer (Layer 4):**
     - reliable, end-to-end data transport services between applications running on different devices.
-    - ensures data integrity, flow control, and error recovery using mechanisms like [[TCP]] (Transmission Control Protocol) and UDP (User Datagram Protocol).
+    - ensures data integrity, flow control, and error recovery using mechanisms like [[TCP]] (Transmission Control Protocol) and [[UDP]] (User Datagram Protocol).
 - **Session Layer (Layer 5):**
     - establishes, manages, and terminates communication sessions between applications on different devices.
     - synchronization and checkpointing of data exchange to support reliable data transfer during a session.
