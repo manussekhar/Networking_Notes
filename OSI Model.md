@@ -5,7 +5,7 @@ The OSI (Open Systems Interconnection) model is a conceptual framework that stan
     - defines the hardware aspects of transmitting raw bits over a physical medium, including connectors, pins, voltage levels, and signaling.
 - **Data Link Layer (Layer 2):**
     - transmission between two directly **connected nodes** (e.g., switches and network interface cards).
-    - It is responsible for framing data into frames, adding MAC (Media Access Control) addresses for device identification, and handling error detection and correction.
+    - It is responsible for framing data into frames, adding **MAC** (Media Access Control) addresses for device identification, and handling error detection and correction.
 - **Network Layer (Layer 3):**
     - The network layer is responsible for routing data packets between different networks or subnets.
     - It deals with logical addressing (e.g., IP addresses), packet forwarding, and choosing the best path for data to travel from the source to the destination.
