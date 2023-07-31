@@ -1,3 +1,3 @@
 User Datagram protocol
 
-less reliable than [[]]
+less reliable than [[TCP]]
