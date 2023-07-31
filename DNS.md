@@ -1,3 +1,3 @@
 Domain Name System
 
-Acts as the address
+Acts as the address book for 
