@@ -19,5 +19,5 @@ The OSI (Open Systems Interconnection) model is a conceptual framework that stan
     - data representation, translation, and encryption to ensure that data sent by one application can be understood by another.
     - **data compression, data encryption, character encoding**, and data format conversion.
 - **Application Layer (Layer 7):**
-    - closest to the end-user.  provides a user interface and services for end-user applications to interact with the network.
+    - closest to the end-user.  provides a **user interface** and services for end-user applications to interact with the network.
     - It includes various application protocols like HTTP, FTP, SMTP, and DNS, enabling functions such as email, web browsing, file transfer, and domain name resolution.
