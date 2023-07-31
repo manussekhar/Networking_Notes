@@ -4,4 +4,4 @@ less reliable than [[TCP]]
 does not establish a connection before sending data
 no ordering
 a lightweight protocol
-use caes are
+use case
