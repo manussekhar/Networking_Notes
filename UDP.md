@@ -2,4 +2,5 @@ User Datagram protocol
 
 less reliable than [[TCP]]
 does not establish a connection before sending data
-no orderi
+no ordering
+a light
