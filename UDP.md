@@ -1,1 +1,1 @@
-less reliable thanUser Datagram protocol
+User Datagram protocol
